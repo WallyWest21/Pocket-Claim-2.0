@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocket Claim 2.0", "Pocket Claim 2.0\Pocket Claim 2.0.csproj", "{733520AD-F8E2-4979-9056-1910A71FB703}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl_PocketClaim", "cl_PocketClaim\cl_PocketClaim.csproj", "{1E92DCA4-7528-4A6E-A98E-311A42A60176}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{733520AD-F8E2-4979-9056-1910A71FB703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{733520AD-F8E2-4979-9056-1910A71FB703}.Release|Any CPU.Build.0 = Release|Any CPU
 		{733520AD-F8E2-4979-9056-1910A71FB703}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1E92DCA4-7528-4A6E-A98E-311A42A60176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E92DCA4-7528-4A6E-A98E-311A42A60176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E92DCA4-7528-4A6E-A98E-311A42A60176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E92DCA4-7528-4A6E-A98E-311A42A60176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
